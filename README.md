@@ -8,6 +8,9 @@ This plugin adds a simple macro {{colorbox(...)}} to Redmine Wiki pages.
 - Background color: #5A5B5D
 - CSS is loaded via view hook
 
+- https://github.com/Stefanikm/redmine_colorbox/blob/main/colorbox_01.jpg
+- https://github.com/Stefanikm/redmine_colorbox/blob/main/colorbox_02.jpg
+
 ## Installation
 
 1. Clone or download this repository into your `plugins/` directory:

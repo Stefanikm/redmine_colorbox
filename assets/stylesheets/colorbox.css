@@ -1,0 +1,7 @@
+.colorbox {
+  background-color: #5A5B5D;
+  color: white;
+  padding: 2px 6px;
+  border-radius: 3px;
+  display: inline-block;
+}

@@ -1,0 +1,9 @@
+/tmp
+/log
+/vendor
+/images
+/images/
+.bundle
+.DS_Store
+*.swp
+*.swo
